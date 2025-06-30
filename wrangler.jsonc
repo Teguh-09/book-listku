@@ -1,0 +1,9 @@
+{
+  "name": "book-listku",
+  "compatibility_date": "2025-1206-30",
+  "assets": {
+    "binding": "ASSETS",
+    "not_found_handling": "single-page-application"
+  },
+  "main": "./api/index.js",
+}
